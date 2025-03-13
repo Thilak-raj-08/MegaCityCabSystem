@@ -2,6 +2,7 @@ Mega City Cab Management System
 
 Project Overview
 The Mega City Cab Management System is a web-based application designed to manage cab booking operations efficiently, including booking management, billing, fare calculation, and driver/car management. This system simplifies booking processes, automates billing, and ensures robust management of cabs, drivers, and customers.
+
 Technologies Used
 •	Frontend: HTML, CSS, Tailwind CSS, JavaScript
 •	Backend: Java (Servlets, JSP)
